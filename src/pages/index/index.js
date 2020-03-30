@@ -72,7 +72,7 @@ const Index = props => {
           style={{ marginBottom: "-2rem" }}
           alt="123"
         ></img>
-        <h2 style={{ marginBottom: "-2rem" }}>CORO-MON</h2>
+        <h2 style={{ marginBottom: "-2rem" }}>MHD COVID19</h2>
         <p style={{ textAlign: "center" }}>
           Simple Web for monitoring Corona Impact from all over the world
         </p>
